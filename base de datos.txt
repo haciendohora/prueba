@@ -1,3 +1,4 @@
 1.modelo relacional
 2.modelo logico
 3.modelo fisico
+4.modelo dimensional
