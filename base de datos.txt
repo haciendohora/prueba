@@ -1,1 +1,2 @@
 1.modelo relacional
+2.modelo logico
