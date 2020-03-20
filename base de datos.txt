@@ -3,3 +3,4 @@
 3.modelo fisico
 4.modelo dimensional
 5.creo base de datos
+6.ingreso datos
